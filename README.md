@@ -11,4 +11,4 @@ This is a basic blockchain implementation in JavaScript that includes:
 Ensure you have **Node.js** installed. Check by running:
 ```sh
 node -v
-run node index.js
+ node index.js
